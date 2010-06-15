@@ -60,7 +60,8 @@ Are you using it on a live site? If not, there might be problems, because I didn
 * Code optimization
 
 = 0.7 =
-* Fixed data display. You can now choose border color of a bubble.
+* Fixed data display
+* You can now choose border color of a bubble
 
 = 0.5 =
 * It was a beta that I distributed among interested via twitter updates. Follow me on [twitter](http://twitter.com/slaFFik "slaFFik on Twitter")!
