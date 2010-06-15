@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CD BuddyPress Avatar Bubble\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-04 11:24+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Luca Camellini <luccame@gmail.com>\n"
+"Language-Team: luccame <luccame@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: G:\\Webservers\\home\\my_plugins\\cd-bp-avatar-bubble\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: G:\\Webservers\\home\\my_plugins\\cd-bp-avatar-bubble\n"
+
+#: G:\Webservers\home\my_plugins\cd-bp-avatar-bubble/cd-bp-avatar-bubble.php:36
+#: G:\Webservers\home\my_plugins\cd-bp-avatar-bubble/cd-pb-admin.php:19
+msgid "CD Avatar Bubble"
+msgstr "CD Avatar Bubble"
+
+#: G:\Webservers\home\my_plugins\cd-bp-avatar-bubble/cd-pb-admin.php:14
+msgid "Fields were saved. Go and check results!"
+msgstr "Impostazioni salvate. Ora puoi controllare il risultato!"
+
+#: G:\Webservers\home\my_plugins\cd-bp-avatar-bubble/cd-pb-admin.php:19
+msgid "Interactive Avatars"
+msgstr "Avatar Interattivi"
+
+#: G:\Webservers\home\my_plugins\cd-bp-avatar-bubble/cd-pb-admin.php:26
+msgid "Check here all the fields you want to show in the bubble"
+msgstr "Seleziona tutti i campi che vuoi far apparire nella nuvoletta"
+
+#: G:\Webservers\home\my_plugins\cd-bp-avatar-bubble/cd-pb-admin.php:41
+msgid "Remember: the more you choose, the more time needed to process the request."
+msgstr "Attenzione: più campi si selezionano, maggiore sarà il tempo necessario per elaborare la richiesta."
+
+#: G:\Webservers\home\my_plugins\cd-bp-avatar-bubble/cd-pb-admin.php:47
+msgid "Which color of bubble border do you prefer to use?"
+msgstr "Quale colore preferisci per il bordo della nuvoletta?"
+
+#: G:\Webservers\home\my_plugins\cd-bp-avatar-bubble/cd-pb-admin.php:50
+msgid "Light Blue"
+msgstr "Azzurro"
+
+#: G:\Webservers\home\my_plugins\cd-bp-avatar-bubble/cd-pb-admin.php:51
+msgid "Dark Green"
+msgstr "Verde"
+
+#: G:\Webservers\home\my_plugins\cd-bp-avatar-bubble/cd-pb-admin.php:57
+msgid "Save Selected Fields"
+msgstr "Salva Impostazioni"
+
+#: G:\Webservers\home\my_plugins\cd-bp-avatar-bubble/personalajax.php:19
+msgid "This user didn't enter required personal information."
+msgstr "Informazioni non disponibili."
+
