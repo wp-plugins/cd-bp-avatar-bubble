@@ -68,7 +68,7 @@ function cd_pb_admin() {
 					</td>
 				</tr>
 				<tr valign="top">
-					<th scope="row"><?php _e( 'Do you want to display Mention and Private meassage links in a bubble?', 'cd_pb' ) ?></th>
+					<th scope="row"><?php _e( 'Do you want to display Mention and Private message links in a bubble?', 'cd_pb' ) ?></th>
 					<td>
 						<input name="cd_pb_messages" type="radio" value="yes"<?php echo( ( 'yes' == $cd_pb[ 'messages' ] ) ? ' checked="checked"' : '' ); ?> /> <?php _e( 'Yes', 'cd_pb' ); ?><br>
 						<input name="cd_pb_messages" type="radio" value="no"<?php echo( ( 'no' == $cd_pb[ 'messages' ] ) ? ' checked="checked"' : '' ); ?> /> <?php _e( 'No', 'cd_pb' ); ?><br>

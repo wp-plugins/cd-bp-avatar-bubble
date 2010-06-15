@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CD BuddyPress Avatar Bubble\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-06-15 22:44+0200\n"
+"POT-Creation-Date: 2010-06-16 00:09+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: slaFFik <slaffik@list.ru>\n"
 "Language-Team: slaFFik <slava.abakumov@gmail.com>\n"
@@ -96,7 +96,7 @@ msgid "Simply Grey"
 msgstr "Обычный серый"
 
 #: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\0.9/cd-pb-admin.php:71
-msgid "Do you want to display Mention and Private meassage links in a bubble?"
+msgid "Do you want to display Mention and Private message links in a bubble?"
 msgstr "Вы хотите показывать в окне ссылки на упоминание пользователя и личные сообщения?"
 
 #: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\0.9/cd-pb-admin.php:73
