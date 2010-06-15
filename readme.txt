@@ -3,8 +3,8 @@ Contributors: slaFFik
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DBMR78SQTLSCC
 Tags: buddypress, profile, ajax, avatar
 Requires at least: WP 2.9.2 and BP 1.2.x
-Tested up to: WP 2.9.2 and BP 1.2.3
-Stable tag: 0.8
+Tested up to: WPMU 2.9.2 and BP 1.2.4.1
+Stable tag: 0.9
 
 After moving your mouse pointer on a BuddyPress user avatar you will see a bubble with the defined by admin information about this user.
 
@@ -16,7 +16,7 @@ Ajax calls save your bandwidth and time spent on waiting. So if you want your us
 
 This plugin wouldn't exist without [Marco](http://teethgrinder.net) suggestion. His idea - my realization. Have a plugin idea or suggestion? Contact me on [twitter](http://twitter.com/slaFFik). 
 
-I also want to thank my testers: [ZigZag](http://racingmag.ru/), [Альберт](http://sultan.ufalavka.ru/), [Sarah](http://wpmu.org/).
+I also want to thank my testers: [ZigZag](http://racingmag.ru/), [Альберт](http://sultan.ufalavka.ru/), [Sarah](http://wpmu.org/) and others.
 
 == Installation ==
 
@@ -41,11 +41,19 @@ Yes, I think no need to add such functionality to users link.
 
 == Changelog ==
 
+= 0.9 =
+* Added extra colors of bubble borders
+* Added privacy control - you can define, who can see the bubble
+* Added better bubble positioning
+* Added mentions and private messages links into the bubble (optional)
+* Added search by data in a bubble (values are searchable)
+* Code optimization
+
 = 0.8 =
-* Added synced display of fields in a bubble according to the way you sorted them on Profile field setup page.
-* Added support for nice displaying multiselect and datebox fileds.
+* Added synced display of fields in a bubble according to the way you sorted them on Profile field setup page
+* Added support for nice displaying multiselect and datebox fileds
 * Fluid width of a bubble in all major browsers except IE7 (added IE7 css hack to make it 250px)
-* Code optimization.
+* Code optimization
 
 = 0.7 =
 * Fixed data display. You can now choose border color of a bubble.
