@@ -52,6 +52,7 @@ Are you using it on a live site? If not, there might be problems, because I didn
 * Added mentions and private messages links into the bubble (optional)
 * Added search by data in a bubble (values are searchable)
 * Code optimization
+* Thank you, Guillaume Coulon, for French translation and Luca Camellini for Italian.
 
 = 0.8 =
 * Added synced display of fields in a bubble according to the way you sorted them on Profile field setup page
