@@ -1,7 +1,7 @@
 <?php
 $ID = $_GET[ 'ID' ];
 if ( is_numeric( $ID ) ) {
-	include( '../../../wp-blog-header.php' );
+	include( '../../../wp-load.php' );
 	
 	function the_personalinfo( $ID ) {
 		global $bp;

@@ -33,10 +33,10 @@ function cd_pb_admin() {
 					<tr>
 
 						<td scope="col" width="10px">
-							<input name="cd_pb_display[<?=$field_data->id?>][name]" type="checkbox" <?php if ( $cd_pb[ $field_data->id ]['name'] ) { ?>checked="checked" <?php } ?>value="<?=$field_data->name?>" />
+							<input name="cd_pb_display[<?php $field_data->id?>][name]" type="checkbox" <?php if ( $cd_pb[ $field_data->id ]['name'] ) { ?>checked="checked" <?php } ?>value="<?php $field_data->name?>" />
 						</td>
-						<td><?=$field_data->name?></td>
-						<input name="cd_pb_display[<?=$field_data->id?>][type]" type="hidden" value="<?=$field_data->type?>" />
+						<td><?php $field_data->name?></td>
+						<input name="cd_pb_display[<?php $field_data->id?>][type]" type="hidden" value="<?php $field_data->type?>" />
 					</tr>
 				<?php } ?>
 				</tbody>
