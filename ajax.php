@@ -7,6 +7,7 @@ if ( is_numeric( $ID ) ) {
 		global $bp;
 		$cd_pb = get_option( 'cd_pb' );
 		$i = 1;
+		
 		if ( $cd_pb[ 'messages' ] == 'yes' ) { 
 			if ( is_user_logged_in() ) {
 				$mention = '<strong><a href="'. bp_get_send_public_message_link() . bp_core_get_username( $ID, false, false ) . '" title="'. __( 'Mention this User', 'cd_pb' ) .'">@'. bp_core_get_username( $ID, false, false ) .'</a></strong>';
