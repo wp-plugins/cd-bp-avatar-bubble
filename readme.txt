@@ -36,7 +36,7 @@ Yes, I think no need to add such functionality to users link.
 
 = Why doesn't this plugin work on my site? =
 
-Are you using it on a live site? If not, there might be problems, because I didn't tested in Denwer, WAMP or LAMP. Try it live.
+Are you using it on a live site? If not, there might be problems, because I didn't test it in Denwer, WAMP or LAMP. Try it live.
 
 == Screenshots ==
 
