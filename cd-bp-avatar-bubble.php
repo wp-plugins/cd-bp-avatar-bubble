@@ -30,7 +30,6 @@ add_action ( 'plugins_loaded', 'cd_pb_load_textdomain', 7 );
 require ( WP_PLUGIN_DIR . '/cd-bp-avatar-bubble/cd-pb-admin.php' );
 require ( WP_PLUGIN_DIR . '/cd-bp-avatar-bubble/cd-pb-cssjs.php' );
 
-
 function cd_pb_add_admin_menu() {
 	if ( !is_site_admin() )
 		return false;
