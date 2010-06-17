@@ -35,7 +35,7 @@ function cd_pb_admin() {
 						<td scope="col" width="10px">
 							<input name="cd_pb_display[<?php echo $field_data->id?>][name]" type="checkbox" <?php if ( $cd_pb[ $field_data->id ]['name'] ) { ?>checked="checked" <?php } ?>value="<?php echo $field_data->name?>" />
 						</td>
-						<td><?php $field_data->name?></td>
+						<td><?php echo $field_data->name?></td>
 						<input name="cd_pb_display[<?php echo $field_data->id?>][type]" type="hidden" value="<?php echo $field_data->type?>" />
 					</tr>
 				<?php } ?>
