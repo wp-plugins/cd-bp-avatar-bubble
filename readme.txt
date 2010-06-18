@@ -2,8 +2,8 @@
 Contributors: slaFFik
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DBMR78SQTLSCC
 Tags: buddypress, profile, ajax, avatar
-Requires at least: WP 2.9.2 and BP 1.2.x
-Tested up to: WPMU 2.9.2 and BP 1.2.4.1
+Requires at least: WP(MU) 2.9.1 and BP 1.2.x
+Tested up to: WP 3.0 and BP 1.2.4.1
 Stable tag: 0.9.1
 
 After moving your mouse pointer on a BuddyPress user avatar you will see a bubble with the defined by admin information about this user.
