@@ -48,6 +48,7 @@ Are you using it on a live site? If not, there might be problems, because I didn
 = 0.9.5 =
 * Added the ability to control which values will become links, and which will not
 * Added Add Friend button into the bubble (optional)
+* Minor bug fixes
 * Code optimization
 
 = 0.9.1 =
