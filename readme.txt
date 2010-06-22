@@ -46,7 +46,7 @@ Are you using it on a live site? If not, there might be problems, because I didn
 == Changelog ==
 
 = 0.9.5.1 =
-* Fixed bug with displaying unnecessary line in a bubble for Add Friend button when user is not loggen in
+* Fixed bug with displaying unnecessary line in a bubble for Add Friend button when user is not logged in
 
 = 0.9.5 =
 * Added the ability to control which values will become links, and which will not
