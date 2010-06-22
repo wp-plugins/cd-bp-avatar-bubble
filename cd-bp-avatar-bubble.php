@@ -100,11 +100,10 @@ function the_personalinfo( $ID ) {
 		$output .= '<p class="popupLine">'. $mention .' | '. $message .'</p>';
 	}
 
-	if ( $cd_pb[ 'friend' ] == 'yes' ) {
+	if ( $cd_pb[ 'friend' ] == 'yes' && $ID != $bp->loggedin_user->id && is_user_logged_in() ) {
 		$i++;
 		if ( $i != 1 ) $class = ' style="padding-top:6px;"';
-		if ( $ID != $bp->loggedin_user->id ) 
-			$output .= '<p class="popupLine"'. $class .'>'. cd_pb_get_add_friend_button( $ID, false) .'</p>';
+		$output .= '<p class="popupLine"'. $class .'>'. cd_pb_get_add_friend_button( $ID, false) .'</p>';
 	}
 	
 	foreach ( $cd_pb as $field_id => $field_data ) {
