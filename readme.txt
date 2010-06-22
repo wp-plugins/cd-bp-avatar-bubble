@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: buddypress, profile, ajax, avatar, admin, privacy
 Requires at least: 2.9.2 and 1.2.x
 Tested up to: 3.0 and 1.2.4.1
-Stable tag: 0.9.5
+Stable tag: 0.9.5.1
 
 After moving your mouse pointer on a BuddyPress user avatar you will see a bubble with the defined by admin information about this user.
 
@@ -44,6 +44,9 @@ Are you using it on a live site? If not, there might be problems, because I didn
 2. On a production site
 
 == Changelog ==
+
+= 0.9.5.1 =
+* Fixed bug with displaying unnecessary line in a bubble for Add Friend button when user is not logged in
 
 = 0.9.5 =
 * Added the ability to control which values will become links, and which will not
