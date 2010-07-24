@@ -3,14 +3,14 @@ Contributors: slaFFik
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DBMR78SQTLSCC
 Tags: buddypress, profile, ajax, avatar, admin, privacy
 Requires at least: 2.9.2 and 1.2.x
-Tested up to: 3.0 and 1.2.4.1
+Tested up to: 3.0 and 1.2.5.2
 Stable tag: 1.0
 
-After moving your mouse pointer on a BuddyPress user avatar you will see a bubble with the defined by admin information about this user.
+After moving your mouse pointer on a BuddyPress user avatar (or clicking it) you will see a bubble with the defined by admin information about this user.
 
 == Description ==
 
-After moving your mouse pointer on a BuddyPress user avatar you will see a bubble with the defined by admin information about this user. 
+After moving your mouse pointer on a BuddyPress user avatar (or clicking it) you will see a bubble with the defined by admin information about this user. 
 
 Ajax calls save your bandwidth and time spent on waiting. So if you want your users can easily get information about themselves on a fly - use CD BP Avatar Bubble.
 
@@ -20,9 +20,9 @@ I also want to thank my testers: [ZigZag](http://racingmag.ru/), [Альберт
 
 == Installation ==
 
-1. Upload plugin folder `cd-bp-avatar-bubble` to the `/wp-content/plugins/` directory
+1. Upload plugin folder `/cd-bp-avatar-bubble/` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Go to CD Avatar Bubble under BuddyPress menu and make customisations needed.
+1. Go to CD Avatar Bubble under BuddyPress menu and make customisations as needed.
 
 == Frequently Asked Questions ==
 
@@ -32,13 +32,17 @@ Yes, it does. No need to wait until page will be loaded.
 
 = Does plugin work with avatars only? =
 
-Yes, I think no need to add such functionality to users link.
+Yes, I think no need to add such functionality to users links or groups avatar.
 
 = Why doesn't this plugin work on my site? =
 
 Are you using it on a live site? If not, there might be problems, because I didn't tested in Denwer, WAMP or LAMP. Try it live.
+Try to reinstall the plugin too.
 
 == Screenshots ==
+
+[Demo on YouTube.com](http://youtube.com/___ "Demo video")
+
 
 1. Admin Page
 2. On a production site
@@ -46,7 +50,13 @@ Are you using it on a live site? If not, there might be problems, because I didn
 == Changelog ==
 
 = 1.0 =
-* Coming soon
+* Admin page rewrite - absolutely new and fresh
+* Grouping fields in a table and in the bubble according their order on profile page
+* Added ability to make a time delay before showing the bubble
+* Added extra action to show the bubble - not only hover an avatar, but click it
+* Added some hooks into the bubble to make in possible to extend information with third-party code
+* Minor bug fixes
+* Code optimization
 
 = 0.9.5.1 =
 * Fixed bug with displaying unnecessary line in a bubble for Add Friend button when user is not logged in
