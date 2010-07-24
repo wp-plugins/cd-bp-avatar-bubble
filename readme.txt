@@ -41,7 +41,7 @@ Try to reinstall the plugin too.
 
 == Screenshots ==
 
-[Demo on YouTube.com](http://youtube.com/___ "Demo video")
+[Demo on YouTube.com](http://www.youtube.com/watch?v=cMmjt_Rpz9E "Demo video")
 
 
 1. Admin Page
