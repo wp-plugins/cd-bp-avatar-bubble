@@ -54,7 +54,7 @@ Try to reinstall the plugin too.
 * Grouping fields in a table and in the bubble according their order on profile page
 * Added ability to make a time delay before showing the bubble
 * Added extra action to show the bubble - not only hover an avatar, but click it
-* Added some hooks into the bubble to make in possible to extend information with third-party code
+* Added some hooks into the bubble to make it possible to extend information with third-party code
 * Minor bug fixes
 * Code optimization
 
