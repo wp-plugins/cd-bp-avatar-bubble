@@ -85,9 +85,19 @@ function cd_ab_get_add_friend_button( $ID = false, $friend_status = false ) {
 /* DISPLAY EVERYTHING */
 add_action('wp_ajax_the_personalinfo', 'the_personalinfo');
 add_action('wp_ajax_nopriv_the_personalinfo', 'the_personalinfo');
-function the_personalinfo() {
-	global $bp;
+function the_personalinfo(){
+	$cd_ab = get_option( 'cd_ab' );
     $ID = $_GET['ID'];
+	if ( $cd_ab[ 'access' ] == 'admin' && is_site_admin() ) {
+		get_the_personalinfo( $ID );
+	}elseif ( $cd_ab[ 'access' ] == 'logged_in' && is_user_logged_in() ) {
+		get_the_personalinfo( $ID );
+	}elseif ( $cd_ab[ 'access' ] == 'all' ) {
+		get_the_personalinfo( $ID );
+	}
+}
+function get_the_personalinfo($ID) {
+	global $bp;
 	$cd_ab = get_option( 'cd_ab' );
 	if ( !$cd_ab['delay'] ) {
 		echo '0|~|';
