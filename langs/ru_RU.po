@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CD BuddyPress Avatar Bubble\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-24 21:27+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: slaFFik <slaffik@list.ru>\n"
+"Language-Team: slaFFik <slava.abakumov@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: G:\\_server\\home\\work\\my_plugins\\cd-bp-avatar-bubble\\0.9\n"
+"X-Poedit-SearchPath-0: G:\\_server\\home\\work\\my_plugins\\cd-bp-avatar-bubble\\0.9\n"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:26
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:53
+msgid "CD Avatar Bubble"
+msgstr "CD Avatar Bubble"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:36
+msgid "Privacy Options"
+msgstr "Настройки приватности"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:37
+msgid "Border Color"
+msgstr "Цвет границы"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:39
+msgid "Fields To Show In A Bubble"
+msgstr "Отображаемые в окне поля"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:40
+msgid "Extra Options"
+msgstr "Дополнительные настройки"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:53
+msgid "Interactive Avatars"
+msgstr "Интерактивные аватары"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:70
+msgid "All changes were saved. Go and check results!"
+msgstr "Все изменения сохранены. Теперь можете увидеть плагин в действии!"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:87
+msgid "Save Selected Fields"
+msgstr "Сохранить выбранные поля"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:110
+msgid "Whom would you like allow to see this avatar bubble?"
+msgstr "Кто может видеть окно с информацией при наведении/клике на аватар?"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:112
+msgid "Admin users only"
+msgstr "Только администраторы"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:113
+msgid "Logged in users only (including admins)"
+msgstr "Только авторизованные пользователи (админы в том числе)"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:114
+msgid "All visitors (even not logged in)"
+msgstr "Все посетители (даже не авторизованные)"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:126
+msgid "Check here all fields from profile groups you want to show in a bubble"
+msgstr "Отметьте здесь те поля групп, которые вы хотите показывать в окне"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:127
+msgid "As a link?"
+msgstr "В виде ссылки?"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:166
+msgid "Remember: the more you choose, the more time needed to process the request."
+msgstr "Помните: чем больше отметили, тем дольше грузится!"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:167
+msgid "All"
+msgstr "Все"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:178
+msgid "What do you want to do with an avatar to show a bubble?"
+msgstr "Что нужно сделать с аватаром, чтобы появилось окно?"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:180
+msgid "Click it"
+msgstr "Кликнуть"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:181
+msgid "Hover it"
+msgstr "Навести"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:184
+msgid "Do you want to display Mention and Private message links?"
+msgstr "Вы хотите показывать ссылки на упоминание пользователя и личные сообщения?"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:186
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:193
+msgid "Yes"
+msgstr "Да"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:187
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:194
+msgid "No"
+msgstr "Нет"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:191
+msgid "Do you want to display Add Friend link?"
+msgstr "Вы хотите показывать ссылку Добавить в друзья?"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:198
+msgid "How many <strong>seconds</strong> do you want bubble to wait before showing itself (Delay Time)?<br><br><strong>Remember:</strong> This number willl be added to time needed to process the request (abt. 1 second)."
+msgstr "Сколько <strong>секунд</strong> будет ждать окно перед тем, как появится (время задержки)?<br><br><strong>Помните:</strong> Это число плюсуется к минимально необходимому времени для генерации окна (прим. 1 сек)."
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:208
+msgid "Which color of bubble border do you prefer to use?"
+msgstr "Какой цвет границы всплывающего окна вы хотите использовать на сайте?"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:210
+msgid "Light Blue"
+msgstr "Светло-синий"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:211
+msgid "Dark Green"
+msgstr "Темно-зеленый"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:212
+msgid "Light Red"
+msgstr "Светло-красный"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:213
+msgid "Just Black"
+msgstr "Просто черный"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-ab-admin.php:214
+msgid "Simply Grey"
+msgstr "Обычный серый"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-avatar-bubble.php:74
+msgid "Friendship Requested"
+msgstr "Запрошена дружба"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-avatar-bubble.php:76
+msgid "Cancel Friendship"
+msgstr "Отменить дружбу"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-avatar-bubble.php:78
+msgid "Add Friend"
+msgstr "Добавить в друзья"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-avatar-bubble.php:98
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-avatar-bubble.php:115
+msgid "Go to profile page"
+msgstr "Перейти на страницу профиля"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-avatar-bubble.php:102
+msgid "Mention this user"
+msgstr "Упомянуть этого пользователя"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-avatar-bubble.php:103
+msgid "Send a private message to this user"
+msgstr "Отправить личное сообщение этому пользователю"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-avatar-bubble.php:103
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-avatar-bubble.php:106
+msgid "Private Message"
+msgstr "Личное сообщение"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-avatar-bubble.php:105
+msgid "You should be logged in to mention this user"
+msgstr "Вам необходимо авторизоваться, чтобы упомянуть этого пользователя"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-avatar-bubble.php:106
+msgid "You should be logged in to send a private message"
+msgstr "Вам необходимо авторизоваться, чтобы отправлять личные сообщения"
+
+#: G:\_server\home\work\my_plugins\cd-bp-avatar-bubble\1.0/cd-avatar-bubble.php:138
+msgid "Nothing to display. Check a bit later please."
+msgstr "Нечего отображать. Проверьте информацию позже."
+
+#~ msgid "This user didn't enter required personal information."
+#~ msgstr "Этот пользователь не ввел необходимой информации в профиле."
+
