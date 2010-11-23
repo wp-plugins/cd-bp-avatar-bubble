@@ -3,12 +3,12 @@
 Plugin Name: CD BuddyPress Avatar Bubble
 Plugin URI: http://cosydale.com/plugin-cd-avatar-bubble.html
 Description: After moving your mouse pointer on a BuddyPress user avatar you will see a bubble with the defined by admin information about this user.
-Version: 1.1
+Version: 1.1.1
 Author: slaFFik
 Author URI: http://cosydale.com/
 Site Wide Only: true
 */
-define ( 'CD_AB_VERSION', '1.1' );
+define ( 'CD_AB_VERSION', '1.1.1' );
 define ( 'CD_AB_IMAGE_URI', WP_PLUGIN_URL . '/cd-bp-avatar-bubble/_inc/images' );
 
 register_activation_hook( __FILE__, 'cd_ab_activation' );
@@ -18,7 +18,7 @@ function cd_ab_activation() {
 	$cd_ab[ 'access' ] = 'all';
 	$cd_ab[ 'messages' ] = 'yes';
 	$cd_ab[ 'friend' ] = 'no';
-	$cd_ab[ 'action' ] = 'hover';
+	$cd_ab[ 'action' ] = 'click';
 	$cd_ab[ 'delay' ] = '0';
 	add_option( 'cd_ab', $cd_ab, '', 'yes' );
 }
@@ -120,8 +120,8 @@ function get_the_personalinfo($ID) {
 		}
 	
 		if ( is_user_logged_in() ) {
-			$mention .= '<strong><a href="'. bp_get_send_public_message_link() . bp_core_get_username( $ID, false, false ) . '" title="'. __( 'Mention this user', 'cd_ab' ) .'">@'. bp_core_get_username( $ID, false, false ) .'</a></strong>';
-			$message = '<a href="'. bp_get_send_private_message_link() . bp_core_get_username( $ID, false, false ) .'" title="'. __( 'Send a private message to this user', 'cd_ab' ) .'">'. __( 'Private Message', 'cd_ab' ) .'</a>';
+			$mention .= '<strong><a href="'. bp_core_get_user_domain( $bp->loggedin_user->id, false, false ) . BP_ACTIVITY_SLUG .'/?r='.bp_core_get_username( $ID, false, false ).'" title="'. __( 'Mention this user', 'cd_ab' ) .'">@'. bp_core_get_username( $ID, false, false ) .'</a></strong>';
+			$message = '<a href="'. bp_core_get_user_domain( $bp->loggedin_user->id, false, false ) . BP_MESSAGES_SLUG . '/compose/?r=' . bp_core_get_username( $ID, false, false ) .'" title="'. __( 'Send a private message to this user', 'cd_ab' ) .'">'. __( 'Private Message', 'cd_ab' ) .'</a>';
 		}else{
 			$mention .= '<strong><a href="' . $bp->root_domain . '/wp-login.php?redirect_to=' . urlencode( $bp->root_domain ) . '" title="'.__( 'You should be logged in to mention this user', 'cd_ab' ) .'">@'. bp_core_get_username( $ID, false, false ) .'</a></strong>';
 			$message = '<strong><a href="' . $bp->root_domain . '/wp-login.php?redirect_to=' . urlencode( $bp->root_domain ) . '" title="'. __( 'You should be logged in to send a private message', 'cd_ab' ) .'">'. __( 'Private Message', 'cd_ab' ) .'</a></strong>';

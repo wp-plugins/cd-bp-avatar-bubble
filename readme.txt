@@ -54,6 +54,7 @@ Try to reinstall the plugin too.
 = 1.1.1 =
 * Added some reset styles for bubble selectors
 * Fixed rights problem in displaying bubble
+* Fixed problems with mention and PM links
 
 = 1.1 =
 * Ajax refactoring - now fully supports subdirectory and subdomain WP installations
