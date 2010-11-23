@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: buddypress, profile, ajax, avatar, admin, privacy
 Requires at least: 2.9.2 and 1.2.x
 Tested up to: 3.0 and 1.2.6
-Stable tag: 1.1
+Stable tag: 1.1.1
 
 After moving your mouse pointer on a BuddyPress user avatar (or clicking it) you will see a bubble with the defined by admin information about this user.
 
@@ -17,6 +17,11 @@ Ajax calls save your bandwidth and time spent on waiting. So if you want your us
 This plugin wouldn't exist without [Marco](http://teethgrinder.net) suggestion. His idea - my realization. Have a plugin idea or suggestion? Contact me on [twitter](http://twitter.com/slaFFik). 
 
 I also want to thank my testers: [ZigZag](http://racingmag.ru/), [Альберт](http://sultan.ufalavka.ru/), [Sarah](http://wpmu.org/) and others.
+
+
+[Demo on YouTube.com](http://www.youtube.com/watch?v=cMmjt_Rpz9E "Demo video")
+
+See also working example on [OviDemo site](http://gtm.ovirium.com/)
 
 == Installation ==
 
@@ -41,14 +46,15 @@ Try to reinstall the plugin too.
 
 == Screenshots ==
 
-[Demo on YouTube.com](http://www.youtube.com/watch?v=cMmjt_Rpz9E "Demo video")
-
-See also working example on [OviDemo site](http://gtm.ovirium.com/)
-
 1. Admin Page
 2. On a production site
 
 == Changelog ==
+
+= 1.1.1 =
+* Added some reset styles for bubble selectors
+* Fixed rights problem in displaying bubble
+* Fixed problems with mention and PM links
 
 = 1.1 =
 * Ajax refactoring - now fully supports subdirectory and subdomain WP installations
