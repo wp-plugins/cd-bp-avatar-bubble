@@ -6,7 +6,7 @@ Requires at least: 2.9.2 and 1.2.x
 Tested up to: WP 3.0.1 and BP 1.2.6
 Stable tag: 1.1.1
 
-After moving your mouse pointer on a BuddyPress user avatar (or clicking it) you will see a bubble with the defined by admin information about this user.
+After moving your mouse pointer on a BuddyPress user avatar (or clicking) you will see a bubble with the defined by admin information about this user.
 
 == Description ==
 
