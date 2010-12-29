@@ -52,7 +52,7 @@ Try to reinstall the plugin too.
 == Changelog ==
 
 = 1.2 =
-* Added smarter delay for hover effect (thanks to [defunctlife](http://buddypress.org/community/members/defunctlife/)
+* Added smarter delay for hover effect (thanks to [defunctlife](http://buddypress.org/community/members/defunctlife/))
 * Added some filters to use in external code
 
 = 1.1.1 =
