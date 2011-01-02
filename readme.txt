@@ -53,6 +53,7 @@ Try to reinstall the plugin too.
 
 = 1.2.1 =
 * Fixed problem with javascript in admin area after activating v1.2
+* Added Japanese translation (thanks to [chestnut_jp](http://buddypress.org/community/members/chestnut_jp/))
 
 = 1.2 =
 * Added smarter delay for hover effect (thanks to [defunctlife](http://buddypress.org/community/members/defunctlife/))
