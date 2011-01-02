@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: buddypress, profile, ajax, avatar, admin, privacy
 Requires at least: 2.9.2 and 1.2.x
 Tested up to: WP 3.1 and BP 1.2.7
-Stable tag: 1.2
+Stable tag: 1.2.1
 
 After moving your mouse pointer on a BuddyPress user avatar (or clicking) you will see a bubble with the defined by admin information about this user.
 
@@ -50,6 +50,9 @@ Try to reinstall the plugin too.
 2. On a production site
 
 == Changelog ==
+
+= 1.2.1 =
+* Fixed problem with javascript in admin area after activating v1.2
 
 = 1.2 =
 * Added smarter delay for hover effect (thanks to [defunctlife](http://buddypress.org/community/members/defunctlife/))
