@@ -51,6 +51,9 @@ Try to reinstall the plugin too.
 
 == Changelog ==
 
+= 1.2.8 =
+* Backwards compatible up to WordPress 3.1 and BuddyPress 1.2.8
+
 = 1.2.1 =
 * Fixed problem with javascript in admin area after activating v1.2
 * Added Japanese translation (thanks to [chestnut_jp](http://buddypress.org/community/members/chestnut_jp/))
