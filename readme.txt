@@ -3,8 +3,8 @@ Contributors: slaFFik
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DBMR78SQTLSCC
 Tags: buddypress, profile, ajax, avatar, admin, privacy
 Requires at least: 2.9.2 and 1.2.x
-Tested up to: WP 3.1 and BP 1.2.7
-Stable tag: 1.2.1
+Tested up to: WP 3.1 and BP 1.2.8
+Stable tag: 1.2.2
 
 After moving your mouse pointer on a BuddyPress user avatar (or clicking) you will see a bubble with the defined by admin information about this user.
 
