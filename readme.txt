@@ -51,7 +51,7 @@ Try to reinstall the plugin too.
 
 == Changelog ==
 
-= 1.2.8 =
+= 1.2.2 =
 * Backwards compatible up to WordPress 3.1 and BuddyPress 1.2.8
 
 = 1.2.1 =
