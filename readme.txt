@@ -35,13 +35,9 @@ See also working example on [OviDemo site](http://gtm.ovirium.com/)
 
 Yes, it does. No need to wait until page will be loaded.
 
-= Does plugin work with avatars only? =
-
-Yes, I think no need to add such functionality to users links or groups avatar.
-
 = Why doesn't this plugin work on my site? =
 
-Are you using it on a live site? If not, there might be problems, because I didn't tested in Denwer, WAMP or LAMP. Try it live.
+Are you using it on a live site? If not, there might be problems, because I didn't test it in Denwer, WAMP or LAMP. Try it live.
 Try to reinstall the plugin too.
 
 == Screenshots ==
