@@ -2,9 +2,9 @@
 Contributors: slaFFik
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DBMR78SQTLSCC
 Tags: buddypress, profile, ajax, avatar, admin, privacy
-Requires at least: 2.9.2 and 1.2.x
-Tested up to: 3.1.1
-Stable tag: 2.0.1
+Requires at least: WordPress 3.1 and BuddyPress 1.2.x
+Tested up to: WordPress 3.2.1 and BuddyPress 1.5
+Stable tag: 2.1
 
 After moving your mouse pointer on a BuddyPress user avatar (or clicking) you will see a bubble with the defined by admin information about this user.
 
@@ -35,9 +35,13 @@ See also working example on [OviDemo site](http://gtm.ovirium.com/)
 
 Yes, it does. No need to wait until page will be loaded.
 
+= Does plugin work with avatars only? =
+
+Yes, I think no need to add such functionality to users links or groups avatar.
+
 = Why doesn't this plugin work on my site? =
 
-Are you using it on a live site? If not, there might be problems, because I didn't test it in Denwer, WAMP or LAMP. Try it live.
+Are you using it on a live site? If not, there might be problems, because I didn't tested in Denwer, WAMP or LAMP. Try it live.
 Try to reinstall the plugin too.
 
 == Screenshots ==
@@ -47,13 +51,16 @@ Try to reinstall the plugin too.
 
 == Changelog ==
 
+= 2.1 =
+* Tested for fully support of BuddyPress 1.5
+
 = 2.0.1 =
 * Updated Japanese translation (thanks to [chestnut_jp](http://buddypress.org/community/members/chestnut_jp/))
 * Fixed localization problem (thanks to [chestnut_jp](http://buddypress.org/community/members/chestnut_jp/))
 
 = 2.0 =
-* Added groups avatars bubble with lots of options
-* Minified js files
+* Adding groups avatars bubble with lots of options
+* Minifying js files
 * Better options page
 * Improved bubble preloading display - on a proper place
 
