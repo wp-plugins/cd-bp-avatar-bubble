@@ -1,0 +1,342 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CD BuddyPress Avatar Bubble\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-10 15:16+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: slaFFik <slaffik@list.ru>\n"
+"Language-Team: slaFFik <slava.abakumov@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: Z:\\home\\ovi\\www\\wp-content\\plugins\\cd-bp-avatar-bubble\n"
+"X-Poedit-SearchPath-0: Z:\\home\\ovi\\www\\wp-content\\plugins\\cd-bp-avatar-bubble\n"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:34
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:75
+msgid "CD Avatar Bubble"
+msgstr "CD Avatar Bubble"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:52
+msgid "Privacy Options"
+msgstr "Настройки приватности"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:53
+msgid "Border Color"
+msgstr "Цвет границы"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:55
+msgid "Users Avatars Options"
+msgstr "Настройки аватара пользователей"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:56
+msgid "Groups Avatars Options"
+msgstr "Настройки для аватара группы"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:57
+msgid "Extra Options"
+msgstr "Дополнительные настройки"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:75
+msgid "Interactive Avatars"
+msgstr "Интерактивные аватары"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:102
+msgid "All changes were saved. Go and check results!"
+msgstr "Все изменения сохранены. Теперь можете увидеть плагин в действии!"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:122
+msgid "Save Selected Fields"
+msgstr "Сохранить выбранные поля"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:147
+msgid "Do you want to enable avatar bubble for groups too?"
+msgstr "CD Avatar Bubble"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:149
+msgid "Enable"
+msgstr "Включить"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:150
+msgid "Disable"
+msgstr "Выключить"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:155
+msgid "For what types of groups this bubble should appear?"
+msgstr "Для каких типов группы вы хотите показывать данные в окошке?"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:157
+msgid "For public groups"
+msgstr "Для открытых групп"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:158
+msgid "For private groups"
+msgstr "Для частных групп"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:159
+msgid "For hidden groups"
+msgstr "Для скрытых групп"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:164
+msgid "Please select below fields you want to show in a bubble:"
+msgstr "Отметьте здесь те поля профиля, которые вы хотите показывать в окне:"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:166
+msgid "Group name"
+msgstr "Название группы"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:167
+msgid "Short description"
+msgstr "Короткое описание"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:168
+msgid "Group status"
+msgstr "Статус групп"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:169
+msgid "Number of members"
+msgstr "Количество участников"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:170
+msgid "Join/Leave group links"
+msgstr "Ссылка Вступить/Покинуть группу"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:171
+msgid "Latest activity date"
+msgstr "Дата последней активности в группе"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:172
+msgid "Feed link (displayed if latest activity is checked)"
+msgstr "Ссылка на RSS ленту (отображается только если включено отображение даты активности)"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:173
+msgid "Forum statistics (number of topics and posts)"
+msgstr "Статистика форума (коливество тем и записей)"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:184
+msgid "Whom would you like allow to see this avatar bubble?"
+msgstr "Кто может видеть окно с информацией при наведении/клике на аватар?"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:186
+msgid "Admin users only"
+msgstr "Только администраторы"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:187
+msgid "Logged in users only (including admins)"
+msgstr "Только авторизованные пользователи (админы в том числе)"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:188
+msgid "All visitors (even not logged in)"
+msgstr "Все посетители (даже не авторизованные)"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:221
+msgid "Check here all fields from users profiles you want to show in a bubble"
+msgstr "Отметьте здесь поля профиля, которые вы хотите показывать в окне"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:222
+msgid "As a link?"
+msgstr "В виде ссылки?"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:259
+msgid "<strong>Remember</strong>: the more you choose, the more time needed to process the request."
+msgstr "<strong>Помните</strong>: чем больше отметили, тем дольше может грузиться!"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:262
+msgid "All"
+msgstr "Все"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:262
+msgid "None"
+msgstr "Ничего"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:267
+msgid "Do you want to display Mention and Private message links?"
+msgstr "Вы хотите показывать ссылки на упоминание пользователя и личные сообщения?"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:269
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:276
+msgid "Yes"
+msgstr "Да"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:270
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:277
+msgid "No"
+msgstr "Нет"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:274
+msgid "Do you want to display Add Friend link?"
+msgstr "Вы хотите показывать ссылку Добавить в друзья?"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:291
+msgid "What do you want to do with an avatar to show a bubble?"
+msgstr "Что нужно сделать с аватаром, чтобы появилось окно?"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:293
+msgid "Click it"
+msgstr "Кликнуть"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:294
+msgid "Hover it"
+msgstr "Навести"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:297
+msgid "How many <strong>seconds</strong> do you want bubble to wait before showing itself (Delay Time)?<br /><br /><strong>Remember:</strong> This number will be added to time needed to process the request (abt. 1 second)."
+msgstr "Сколько <strong>секунд</strong> будет ждать окно перед тем, как появится (время задержки)?<br /><br /><strong>Помните:</strong> Это число плюсуется к минимально необходимому времени для генерации окна (прим. 1 сек)."
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:308
+msgid "Which color of bubble border do you prefer to use?"
+msgstr "Какой цвет границы всплывающего окна вы хотите использовать на сайте?"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:310
+msgid "Light Blue"
+msgstr "Светло-синий"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:311
+msgid "Dark Green"
+msgstr "Темно-зеленый"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:312
+msgid "Light Red"
+msgstr "Светло-красный"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:313
+msgid "Just Black"
+msgstr "Просто черный"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:314
+msgid "Simply Grey"
+msgstr "Обычный серый"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:317
+msgid "Do you want to use images or CSS3 borders+shadows for corners?"
+msgstr "Вы хотите использовать рисунки в качестве закругленных углов или же свойства CSS3 (без рисунков)?"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:319
+msgid "Images"
+msgstr "Рисунки"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:320
+msgid "CSS 3 borders+shadows"
+msgstr "CSS 3 углы и тени"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:105
+msgid "Friendship Requested"
+msgstr "Запрошена дружба"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:107
+msgid "Cancel Friendship"
+msgstr "Отменить дружбу"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:109
+msgid "Add Friend"
+msgstr "Добавить в друзья"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:131
+msgid "You don't have enough rights to view user data"
+msgstr "У вас недостаточно прав для просмотра данных пользователя"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:141
+msgid "You don't have enough rights to view group data"
+msgstr "У вас недостаточно прав для просмотра данных группы"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:153
+msgid "You don't have enough rights to view data of this group"
+msgstr "У вас недостаточно прав для просмотра данных этой группы"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:177
+msgid "Public Group"
+msgstr "Открытая группа"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:179
+msgid "Hidden Group"
+msgstr "Скрытая группа"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:181
+msgid "Private Group"
+msgstr "Частная граппа"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:183
+msgid "Group"
+msgstr "Группа"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:192
+#, php-format
+msgid "%s member"
+msgstr "%s участник"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:194
+#, php-format
+msgid "%s members"
+msgstr "%s участников"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:211
+#, php-format
+msgid "Active %s ago"
+msgstr "Активность: %s назад"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:214
+msgid "RSS"
+msgstr "RSS"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:226
+#, php-format
+msgid "%d topic"
+msgstr "%d тема"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:228
+#, php-format
+msgid "%d topics"
+msgstr "%d тем"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:231
+#, php-format
+msgid "%d post"
+msgstr "%d запись"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:233
+#, php-format
+msgid "%d posts"
+msgstr "%d записей"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:236
+#, php-format
+msgid "<strong>Forum</strong>: %s and %s"
+msgstr "<strong>Форум</strong>: %s и %s"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:261
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:278
+msgid "Go to profile page"
+msgstr "Перейти на страницу профиля"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:265
+msgid "Mention this user"
+msgstr "Упомянуть этого пользователя"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:266
+msgid "Send a private message to this user"
+msgstr "Отправить личное сообщение этому пользователю"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:266
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:269
+msgid "Private Message"
+msgstr "Личное сообщение"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:268
+msgid "You should be logged in to mention this user"
+msgstr "Вам необходимо авторизоваться, чтобы упомянуть этого пользователя"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:269
+msgid "You should be logged in to send a private message"
+msgstr "Вам необходимо авторизоваться, чтобы отправлять личные сообщения"
+
+#: Z:\home\ovi\www\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:304
+msgid "Nothing to display. Check a bit later please."
+msgstr "Нечего отображать. Проверьте информацию позже."
+
+#~ msgid "Fields To Show In A Bubble"
+#~ msgstr "Отображаемые в окне поля"
+
+#~ msgid "This user didn't enter required personal information."
+#~ msgstr "Этот пользователь не ввел необходимой информации в профиле."
