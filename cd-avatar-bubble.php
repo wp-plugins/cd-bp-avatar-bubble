@@ -6,7 +6,7 @@ Description: After moving your mouse pointer on a BuddyPress user avatar you wil
 Version: 2.1.1
 Author: slaFFik
 Author URI: http://cosydale.com/
-Site Wide Only: true
+Network: true
 */
 define ('CD_AB_VERSION', '2.1.1');
 define ('CD_AB_IMAGE_URI', WP_PLUGIN_URL . '/cd-bp-avatar-bubble/_inc/images');
