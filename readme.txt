@@ -1,6 +1,5 @@
 === CD BuddyPress Avatar Bubble ===
-Contributors: slaFFik
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DBMR78SQTLSCC
+Contributors: slaFFik, valant
 Tags: buddypress, profile, ajax, avatar, admin, privacy
 Requires at least: WordPress 3.1 and BuddyPress 1.2.x
 Tested up to: WordPress 3.2.1 and BuddyPress 1.5.1
