@@ -2,14 +2,14 @@
 Contributors: slaFFik, valant
 Tags: buddypress, profile, ajax, avatar, admin, privacy
 Requires at least: WordPress 3.1 and BuddyPress 1.2.x
-Tested up to: WordPress 3.2.1 and BuddyPress 1.5.1
-Stable tag: 2.2
+Tested up to: WordPress 3.2.1 and BuddyPress 1.5.3.1
+Stable tag: 2.3
 
-After moving your mouse pointer on a BuddyPress user avatar (or clicking) you will see a bubble with the defined by admin information about this user.
+After moving your mouse pointer on a BuddyPress user avatar (or clicking) you will see a bubble with selected by admin information about this user.
 
 == Description ==
 
-After moving your mouse pointer on a BuddyPress user avatar (or clicking it) you will see a bubble with the defined by admin information about this user. 
+After moving your mouse pointer on a BuddyPress user avatar (or clicking it) you will see a bubble with selected by admin information about this user. 
 
 Ajax calls save your bandwidth and time spent on waiting. So if you want your users can easily get information about themselves on a fly - use CD BP Avatar Bubble.
 
@@ -17,10 +17,8 @@ This plugin wouldn't exist without [Marco](http://teethgrinder.net) suggestion. 
 
 I also want to thank my testers: [ZigZag](http://racingmag.ru/), [Альберт](http://sultan.ufalavka.ru/), [Sarah](http://wpmu.org/) and others.
 
-
 [Demo on YouTube.com](http://www.youtube.com/watch?v=cMmjt_Rpz9E "Demo video")
 
-See also working example on [OviDemo site](http://gtm.ovirium.com/)
 
 == Installation ==
 
@@ -34,9 +32,6 @@ See also working example on [OviDemo site](http://gtm.ovirium.com/)
 
 Yes, it does. No need to wait until page will be loaded.
 
-= Does plugin work with avatars only? =
-
-Yes, I think no need to add such functionality to users links or groups avatar.
 
 = Why doesn't this plugin work on my site? =
 
@@ -49,6 +44,9 @@ Try to reinstall the plugin too.
 2. On a production site
 
 == Changelog ==
+
+= 2.3 (28.01.2012) =
+* Fixed problems with bubble when Friends/Activity/Messages components are not activated. Degrade without errors.
 
 = 2.2 =
 * Fixed several bugs that prevented bubble to appear in some cases
