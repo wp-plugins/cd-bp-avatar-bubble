@@ -53,6 +53,7 @@ class CD_AB_ADMIN_PAGE {
         // sidebar
         add_meta_box('cd-ab-admin-privacy', __('Privacy Options', 'cd_ab'), array(&$this, 'on_cd_ab_admin_privacy'), $this->pagehook, $position, $priority );
         add_meta_box('cd-ab-admin-b-color', __('Border Color', 'cd_ab'), array(&$this, 'on_cd_ab_admin_b_color'), $this->pagehook, $position, $priority);
+        add_meta_box('cd-ab-admin-promo', __('Need Help / Custom Work?', 'cd_ab'), array(&$this, 'on_cd_ab_admin_promo'), $this->pagehook, $position, $priority);
         // main content - normal
         add_meta_box('cd-ab-admin-users', __('Users Avatars Options', 'cd_ab'), array( &$this, 'on_cd_ab_admin_users'), $this->pagehook, 'normal', 'core');
         add_meta_box('cd-ab-admin-groups', __('Groups Avatars Options', 'cd_ab'), array( &$this, 'on_cd_ab_admin_groups'), $this->pagehook, 'normal', 'core');
