@@ -143,6 +143,15 @@ class CD_AB_ADMIN_PAGE {
     <?php
     }
 
+    function on_cd_ab_admin_promo($cd_ab) {
+        echo '<p>If you:</p>
+                <ul style="list-style:disc;margin-left:15px;">
+                    <li>have a site/plugin idea and want to implement it</li>
+                    <li>want to modify this plugin to your needs and ready to sponsor this</li>
+                </ul>
+                <p>feel free to contact slaFFik via <a href="skype:slaffik_ua?chat">skype:slaFFik_ua</a></p>';
+    }
+    
     function on_cd_ab_admin_groups($cd_ab) { 
         do_action( 'cd_ab_admin_groups_before', $cd_ab ); ?>
         <table class="widefat link-group">
