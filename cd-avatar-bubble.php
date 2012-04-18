@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: CD BuddyPress Avatar Bubble
-Plugin URI: http://cosydale.com/plugin-cd-avatar-bubble.html
+Plugin URI: http://wp-bp.com/products#bubble_article
 Description: After moving your mouse pointer on a BuddyPress user avatar you will see a bubble with the defined by admin information about this user. <a href="http://wp-bp.com">Powered by WP-BP.com</a>
 Version: 2.3.1
-Author: slaFFik
-Author URI: http://cosydale.com/
+Author: WP-BP
+Author URI: http://wp-bp.com/
 Network: true
 */
 define ('CD_AB_VERSION', '2.3.1');
