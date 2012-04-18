@@ -2,7 +2,7 @@
 /*
 Plugin Name: CD BuddyPress Avatar Bubble
 Plugin URI: http://cosydale.com/plugin-cd-avatar-bubble.html
-Description: After moving your mouse pointer on a BuddyPress user avatar you will see a bubble with the defined by admin information about this user.
+Description: After moving your mouse pointer on a BuddyPress user avatar you will see a bubble with the defined by admin information about this user. <a href="http://wp-bp.com">Powered by WP-BP.com</a>
 Version: 2.3.1
 Author: slaFFik
 Author URI: http://cosydale.com/
