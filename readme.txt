@@ -2,10 +2,10 @@
 Contributors: slaFFik, valant
 Tags: buddypress, profile, ajax, avatar, admin, privacy
 Requires at least: WordPress 3.1 and BuddyPress 1.2.x
-Tested up to: WordPress 3.2.1 and BuddyPress 1.5.5
-Stable tag: 2.3.1
+Tested up to: WordPress 3.4.1 and BuddyPress 1.6.1
+Stable tag: 2.4
 
-Move a mouse pointer on a BuddyPress avatars (or clicking) - and see a bubble with defined by admin information about this user. Powered by WP-BP.com
+After moving your mouse pointer on a BuddyPress user avatar (or clicking) you will see a bubble with the defined by admin information about this user.
 
 == Description ==
 
@@ -13,7 +13,10 @@ After moving your mouse pointer on a BuddyPress user avatar (or clicking it) you
 
 Ajax calls save your bandwidth and time spent on waiting. So if you want your users can easily get information about themselves on a fly - use CD BP Avatar Bubble.
 
-[Powered by WP-BP.com](http://wp-bp.com)
+This plugin wouldn't exist without [Marco](http://teethgrinder.net) suggestion. His idea - my realization. Have a plugin idea or suggestion? Contact me on [twitter](http://twitter.com/slaFFik). 
+
+I also want to thank my testers: [ZigZag](http://racingmag.ru/), [Альберт](http://sultan.ufalavka.ru/), [Sarah](http://wpmu.org/) and others.
+
 
 [Demo on YouTube.com](http://www.youtube.com/watch?v=cMmjt_Rpz9E "Demo video")
 
@@ -46,6 +49,13 @@ Try to reinstall the plugin too.
 2. On a production site
 
 == Changelog ==
+
+= 2.4 (27.08.2012) =
+* Tested compatibility with BuddyPress 1.6.x
+* Fixed some notices
+* Fixed datetime field errors
+* Changed the way i18n is initiated
+* Fixed huge bug for WordPress MS
 
 = 2.3.1 (28.03.2012) =
 * Admin area fixes (better compatibility with WordPress Multisite)
