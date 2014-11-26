@@ -10,11 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: __;_e\n"
-"X-Poedit-Basepath: G:\\_server\\home\\work\\my_plugins\\cd-bp-avatar-bubble\\1.0\n"
-"X-Poedit-Language: Japanese\n"
-"X-Poedit-Country: JAPAN\n"
+"X-Poedit-Basepath: G:\\_server\\home\\work\\my_plugins\\cd-bp-avatar-bubble"
+"\\1.0\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-SearchPath-0: G:\\_server\\home\\work\\my_plugins\\cd-bp-avatar-bubble\\1.0\n"
+"Language: ja_JP\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-SearchPath-0: G:\\_server\\home\\work\\my_plugins\\cd-bp-avatar-"
+"bubble\\1.0\n"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:35
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:77
@@ -30,17 +32,16 @@ msgid "Border Color"
 msgstr "ボーダー（border）の色"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:57
-#, fuzzy
 msgid "Users Avatars Options"
-msgstr "プライバシーオプション"
+msgstr "ユーザーアバターのオプション"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:58
 msgid "Groups Avatars Options"
-msgstr ""
+msgstr "グループアバターのオプション"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:59
 msgid "Extra Options"
-msgstr "その他オプション"
+msgstr "その他のオプション"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:77
 msgid "Interactive Avatars"
@@ -56,68 +57,68 @@ msgstr "選択した項目を保存する"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:149
 msgid "Do you want to enable avatar bubble for groups too?"
-msgstr ""
+msgstr "グループ内のアバターバブルを有効にしますか？"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:151
 msgid "Enable"
-msgstr ""
+msgstr "有効"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:152
 msgid "Disable"
-msgstr ""
+msgstr "無効"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:157
 msgid "For what types of groups this bubble should appear?"
-msgstr ""
+msgstr "どのグループ内にバブルを表示しますか？"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:159
 msgid "For public groups"
-msgstr ""
+msgstr "公開グループ内"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:160
 msgid "For private groups"
-msgstr ""
+msgstr "プライベートグループ内"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:161
 msgid "For hidden groups"
-msgstr ""
+msgstr "非表示グループ内"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:166
-#, fuzzy
 msgid "Please select below fields you want to show in a bubble:"
-msgstr "次のプロフィールグループからバブルで表示させたい項目を全てチェックしてください"
+msgstr "次のフィールドからバブルで表示させたい項目を選択してください:"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:168
 msgid "Group name"
-msgstr ""
+msgstr "グループ名"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:169
 msgid "Short description"
-msgstr ""
+msgstr "短い説明文"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:170
 msgid "Group status"
-msgstr ""
+msgstr "グループステータス"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:171
 msgid "Number of members"
-msgstr ""
+msgstr "メンバー数"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:172
 msgid "Join/Leave group links"
-msgstr ""
+msgstr "グループ参加・脱退リンク"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:173
 msgid "Latest activity date"
-msgstr ""
+msgstr "最新アクティビティの日時"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:174
 msgid "Feed link (displayed if latest activity is checked)"
 msgstr ""
+"フィードリンク（最新のアクティビティにチェックが入っていれば表示されます）"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:175
 msgid "Forum statistics (number of topics and posts)"
-msgstr ""
+msgstr "フォーラム統計（トピック数や投稿数）"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:186
 msgid "Whom would you like allow to see this avatar bubble?"
@@ -136,39 +137,50 @@ msgid "All visitors (even not logged in)"
 msgstr "全てのユーザ (ログオフ中の人を含む)"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:223
-#, fuzzy
 msgid "Check here all fields from users profiles you want to show in a bubble"
-msgstr "次のプロフィールグループからバブルで表示させたい項目を全てチェックしてください"
+msgstr ""
+"ユーザープロフィール内のフィールドから、バブルで表示させたい項目を全てチェッ"
+"クしてください"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:224
 msgid "As a link?"
 msgstr "リンクにしますか？"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:261
-#, fuzzy
-msgid "<strong>Remember</strong>: the more you choose, the more time needed to process the request."
-msgstr "注意: 選択項目数に応じて、処理時間が必要になります。"
+msgid ""
+"<strong>Remember</strong>: the more you choose, the more time needed to "
+"process the request."
+msgstr ""
+"<strong>注意: </strong>より多くの項目を選択すればするほど、より多くの処理時間"
+"が必要になります。"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:264
 msgid "All"
 msgstr "全て"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:264
-#, fuzzy
 msgid "None"
-msgstr "いいえ"
+msgstr "なし"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:270
 msgid "Do you want to display Mention and Private message links?"
-msgstr "呼びかけと親展メッセージのリンクを表示しますか？"
+msgstr "メンションとプライベートメッセージのリンクを表示しますか？"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:273
-msgid "Activity Component is <strong>not</strong> activated. Mention link will <strong>not</strong> be visible."
+msgid ""
+"Activity Component is <strong>not</strong> activated. Mention link will "
+"<strong>not</strong> be visible."
 msgstr ""
+"アクティビティコンポーネントが<strong>有効になっていません</strong>。メンショ"
+"ンのリンクは<strong>不可視のまま</strong>になります。"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:276
-msgid "Messages Component is <strong>not</strong> activated. New Message link will <strong>not</strong> be visible."
+msgid ""
+"Messages Component is <strong>not</strong> activated. New Message link will "
+"<strong>not</strong> be visible."
 msgstr ""
+"プライベートメッセージコンポーネントが<strong>有効になっていません</strong>。"
+"新規メッセージのリンクは<strong>不可視のまま</strong>になります。"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:281
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:295
@@ -182,11 +194,15 @@ msgstr "いいえ"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:287
 msgid "Do you want to display Add Friend link?"
-msgstr "友達を追加ボタンを表示しますか？"
+msgstr "友達に追加ボタンを表示しますか？"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:290
-msgid "Friends Component is <strong>not</strong> activated. This link will <strong>not</strong> be visible."
+msgid ""
+"Friends Component is <strong>not</strong> activated. This link will "
+"<strong>not</strong> be visible."
 msgstr ""
+"友達関係コンポーネントが<strong>有効になっていません</strong>。このリンクは"
+"<strong>不可視のまま</strong>になります。"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:310
 msgid "What do you want to do with an avatar to show a bubble?"
@@ -198,11 +214,17 @@ msgstr "クリック時"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:313
 msgid "Hover it"
-msgstr "ホバー（hover）時"
+msgstr "マウスオーバー（ホバー）時"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:316
-msgid "How many <strong>seconds</strong> do you want bubble to wait before showing itself (Delay Time)?<br /><br /><strong>Remember:</strong> This number will be added to time needed to process the request (abt. 1 second)."
-msgstr "バブルを表示するまでの待ち時間（ディレイタイム）は<strong>何秒</strong>にしますか？<br /><br /><strong>注意:</strong> 処理時間（約1秒）を加算した数値にしてください。"
+msgid ""
+"How many <strong>seconds</strong> do you want bubble to wait before showing "
+"itself (Delay Time)?<br /><br /><strong>Remember:</strong> This number will "
+"be added to time needed to process the request (abt. 1 second)."
+msgstr ""
+"バブルを表示するまでの待ち時間（ディレイタイム）は<strong>何秒</strong>にしま"
+"すか？<br /><br /><strong>注意:</strong> 処理時間（約1秒）を加算した数値にし"
+"てください。"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:327
 msgid "Which color of bubble border do you prefer to use?"
@@ -230,7 +252,9 @@ msgstr "シンプルグレー"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:336
 msgid "Do you want to use images or CSS3 borders+shadows for corners?"
-msgstr "コーナー（角）の表示は画像と CSS 3 ボーダー + 影（シャドウ）のどちらにしますか？"
+msgstr ""
+"コーナー（角）の表示は画像と CSS 3 ボーダー + 影（シャドウ）のどちらにします"
+"か？"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-ab-admin.php:338
 msgid "Images"
@@ -242,89 +266,87 @@ msgstr "CSS 3 ボーダー + 影（シャドウ）"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:107
 msgid "Friendship Requested"
-msgstr "交友関係の依頼"
+msgstr "友達関係のリクエスト済み"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:109
 msgid "Cancel Friendship"
-msgstr "交友関係の解消"
+msgstr "友達関係の削除"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:111
 msgid "Add Friend"
-msgstr "友達を追加"
+msgstr "友達に追加"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:133
 msgid "You don't have enough rights to view user data"
-msgstr "あなたにはユーザ情報を閲覧する権限がありません"
+msgstr "ユーザ情報を閲覧する権限がありません"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:143
-#, fuzzy
 msgid "You don't have enough rights to view group data"
-msgstr "あなたにはユーザ情報を閲覧する権限がありません"
+msgstr "グループ情報を閲覧する権限がありません"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:155
-#, fuzzy
 msgid "You don't have enough rights to view data of this group"
-msgstr "あなたにはユーザ情報を閲覧する権限がありません"
+msgstr "このグループの情報を閲覧する権限がありません"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:178
 msgid "Public Group"
-msgstr ""
+msgstr "公開グループ"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:180
 msgid "Hidden Group"
-msgstr ""
+msgstr "非表示グループ"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:182
 msgid "Private Group"
-msgstr ""
+msgstr "プライベートグループ"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:184
 msgid "Group"
-msgstr ""
+msgstr "グループ"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:193
 #, php-format
 msgid "%s member"
-msgstr ""
+msgstr "%s メンバー"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:195
 #, php-format
 msgid "%s members"
-msgstr ""
+msgstr "%s メンバー"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:212
 #, php-format
 msgid "Active %s"
-msgstr ""
+msgstr "Active %s"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:215
 msgid "RSS"
-msgstr ""
+msgstr "RSS"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:227
 #, php-format
 msgid "%d topic"
-msgstr ""
+msgstr "%d トピック"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:229
 #, php-format
 msgid "%d topics"
-msgstr ""
+msgstr "%d トピック"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:232
 #, php-format
 msgid "%d post"
-msgstr ""
+msgstr "%d 投稿"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:234
 #, php-format
 msgid "%d posts"
-msgstr ""
+msgstr "%d 投稿"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:237
 #, php-format
 msgid "<strong>Forum</strong>: %s and %s"
-msgstr ""
+msgstr "<strong>フォーラム</strong>: %sと%s"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:265
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:282
@@ -337,12 +359,12 @@ msgstr "このユーザに呼びかける"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:270
 msgid "Send a private message to this user"
-msgstr "このユーザに親展メッセージを送信する"
+msgstr "このユーザにプライベートメッセージを送信する"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:270
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:273
 msgid "Private Message"
-msgstr "親展メッセージ"
+msgstr "プライベートメッセージ"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:272
 msgid "You should be logged in to mention this user"
@@ -350,7 +372,7 @@ msgstr "このユーザに呼びかけはログインする必要があります
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:273
 msgid "You should be logged in to send a private message"
-msgstr "親展メッセージを送信するにはログインする必要があります"
+msgstr "プライベートメッセージを送信するにはログインする必要があります"
 
 #: W:\_server\home\ovi\ab\wp-content\plugins\cd-bp-avatar-bubble/cd-avatar-bubble.php:310
 msgid "Nothing to display. Check a bit later please."
